@@ -1,0 +1,13 @@
+{
+  "name": "vue-parcel-template",
+  "version": "1.0.0",
+  "description": "Vue js template blueprint with parcel bundler",
+  "keywords": [
+    "vue-parcel-template",
+    "vue template",
+    "vue parcel"
+  ],
+  "author": "Prakash Chokalingam (http://bit.ly/prakashchokalingam)",
+  "license": "ISC",
+  "dependencies": {}
+}

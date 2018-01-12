@@ -1,0 +1,24 @@
+{
+  "prompts": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "message": "Project name"
+    },
+    "description": {
+      "type": "string",
+      "required": true,
+      "message": "Project description"
+    },
+    "author": {
+      "type": "string",
+      "required": true,
+      "message": "author"
+    },
+    "keywords": {
+      "type": "string",
+      "required": true,
+      "message": "keywords"
+    }
+  }
+}
